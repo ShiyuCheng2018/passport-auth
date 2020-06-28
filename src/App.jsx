@@ -2,7 +2,7 @@ import React from 'react';
 import {Router, Route} from "react-router-dom";
 import history from "./history";
 import UserProvider from "./contexts/UserProvider";
-import MenuBar from "./components/MenuBar";
+import MenuBar from "./components/menus/MenuBar";
 import Profile from "./pages/Profile";
 import Home from "./pages/Home";
 
